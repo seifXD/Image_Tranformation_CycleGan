@@ -1,1 +1,1 @@
-# Monet Image Generator
+# Monet Image Generator with CycleGan
