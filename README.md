@@ -1,1 +1,1 @@
-# Monet Image generator
+# Monet Image generator:
